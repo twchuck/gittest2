@@ -21,6 +21,7 @@ public class CalculatorForBranch {
 	public static int masterbranch(int a, int b) {
 		return a / b;
 	}
+
 	public static int iss53(int a, int b) {
 		return Math.max(a, b);
 	}

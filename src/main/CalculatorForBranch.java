@@ -21,4 +21,7 @@ public class CalculatorForBranch {
 	public static int iss53(int a, int b) {
 		return Math.max(a, b);
 	}
+	public static int iss53(int a, int b) {
+		return Math.multiplyExact(a, b);
+	}
 }
